@@ -10,3 +10,4 @@
 polipireddirohith/polipireddirohith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+I am a Computer Science graduate with strong skills in Java, C, MySQL, JavaScript, HTML/CSS, and AWS. My GitHub profile actively showcases projects, open-source contributions, and pull requests that reflect my ability to solve real-world problems and collaborate in team-based development.
